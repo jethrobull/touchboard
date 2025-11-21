@@ -1,0 +1,88 @@
+{
+  "rows": [
+    [
+      { "label":"Esc", "keysym":"XK_Escape", "width":1.0 },
+      { "label":"`", "shift_label":"~", "keysym":"XK_grave" },
+      { "label":"1", "shift_label":"!", "keysym":"XK_1" },
+      { "label":"2", "shift_label":"@", "keysym":"XK_2" },
+      { "label":"3", "shift_label":"#", "keysym":"XK_3" },
+      { "label":"4", "shift_label":"$", "keysym":"XK_4" },
+      { "label":"5", "shift_label":"%", "keysym":"XK_5" },
+      { "label":"6", "shift_label":"^", "keysym":"XK_6" },
+      { "label":"7", "shift_label":"&", "keysym":"XK_7" },
+      { "label":"8", "shift_label":"*", "keysym":"XK_8" },
+      { "label":"9", "shift_label":"(", "keysym":"XK_9" },
+      { "label":"0", "shift_label":")", "keysym":"XK_0" },
+      { "label":"-", "shift_label":"_", "keysym":"XK_minus" },
+      { "label":"=", "shift_label":"+", "keysym":"XK_equal" },
+      { "label":"", "keysym":"XK_BackSpace", "width":1.5 }
+    ],
+    [
+      { "label":"Tab", "keysym":"XK_Tab", "width":1.5 },
+      { "label":"Q", "keysym":"XK_q", "width":1.0 },
+      { "label":"W", "keysym":"XK_w", "width":1.0 },
+      { "label":"E", "keysym":"XK_e", "width":1.0 },
+      { "label":"R", "keysym":"XK_r", "width":1.0 },
+      { "label":"T", "keysym":"XK_t", "width":1.0 },
+      { "label":"Y", "keysym":"XK_y", "width":1.0 },
+      { "label":"U", "keysym":"XK_u", "width":1.0 },
+      { "label":"I", "keysym":"XK_i", "width":1.0 },
+      { "label":"O", "keysym":"XK_o", "width":1.0 },
+      { "label":"P", "keysym":"XK_p", "width":1.0 },
+      { "label":"[", "shift_label":"{", "keysym":"XK_bracketleft", "width":1.0 },
+      { "label":"]", "shift_label":"}", "keysym":"XK_bracketright", "width":1.0 },
+      { "label":"\\", "shift_label":"|", "keysym":"XK_backslash", "width":1.0 },
+      { "label":"Del", "keysym":"XK_Delete", "width":1.0 }
+    ],
+    [
+      { "label":"Caps", "keysym":"XK_Caps_Lock", "width":2 },
+      { "label":"A", "keysym":"XK_a", "width":1.0 },
+      { "label":"S", "keysym":"XK_s", "width":1.0 },
+      { "label":"D", "keysym":"XK_d", "width":1.0 },
+      { "label":"F", "keysym":"XK_f", "width":1.0 },
+      { "label":"G", "keysym":"XK_g", "width":1.0 },
+      { "label":"H", "keysym":"XK_h", "width":1.0 },
+      { "label":"J", "keysym":"XK_j", "width":1.0 },
+      { "label":"K", "keysym":"XK_k", "width":1.0 },
+      { "label":"L", "keysym":"XK_l", "width":1.0 },
+      { "label":";", "shift_label":":", "keysym":"XK_semicolon", "width":1.0 },
+      { "label":"'", "shift_label":"\"", "keysym":"XK_apostrophe", "width":1.0 },
+      { "label":"Enter", "keysym":"XK_Return", "width":2.5, "height":1 }
+    ],
+[
+  { "label":"Shift", "keysym":"XK_Shift_L", "width":2.5 },
+  { "label":"Z", "keysym":"XK_z", "width":1.0 },
+  { "label":"X", "keysym":"XK_x", "width":1.0 },
+  { "label":"C", "keysym":"XK_c", "width":1.0 },
+  { "label":"V", "keysym":"XK_v", "width":1.0 },
+  { "label":"B", "keysym":"XK_b", "width":1.0 },
+  { "label":"N", "keysym":"XK_n", "width":1.0 },
+  { "label":"M", "keysym":"XK_m", "width":1.0 },
+  { "label":",", "shift_label":"<", "keysym":"XK_comma", "width":1.0 },
+  { "label":".", "shift_label":">", "keysym":"XK_period", "width":1.0 },
+  { "label":"/", "shift_label":"?", "keysym":"XK_slash", "width":1.0 },
+  { "label":"", "keysym":"XK_Up", "width":1.0 },
+  { "label":"Shift", "keysym":"XK_Shift_R", "width":2 }
+    ],
+    [
+      { "label":"Fn", "keysym":"XK_Mode_switch", "width":1.0 },
+      { "label":"Ctrl", "keysym":"XK_Control_L", "width":1.0 },
+      { "label":"Win", "keysym":"XK_Super_L", "width":1.0 },
+      { "label":"Alt", "keysym":"XK_Alt_L", "width":1.0 },
+      { "label":"", "keysym":"XK_space", "width":5.6 },
+      { "label":"Alt", "keysym":"XK_Alt_R", "width":1.0 },
+      { "label":"Ctrl", "keysym":"XK_Control_R", "width":1.0 },
+      { "label":"", "keysym":"XK_Left", "width":1.0 },
+      { "label":"", "keysym":"XK_Down", "width":1.0 },
+      { "label":"", "keysym":"XK_Right", "width":1.0 },
+      { "label":"", "keysym":"XK_Preferences", "width":1.0 }
+    ]
+  ],
+  "menu": {
+    "preferences": [
+      { "label": "Hide", "action": "hide" },
+      { "label": "Quit", "action": "quit" }
+    ]
+  }
+
+}
